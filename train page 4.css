@@ -1,0 +1,165 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+body{
+    background-color: antiquewhite;
+}
+.container{
+    height: 100%;
+    width: 100%;
+    justify-content: center;
+    align-items: center;
+    background-color: antiquewhite;
+}
+.leftpart{
+    width: 50%;
+    
+    
+
+}
+h1{
+    font-size: 30px;
+    margin-left: 100px;
+    margin-top: 50px;
+}
+p{
+    font-size: 25px;
+    margin-left: 100px;
+    padding-top: 50px;
+    
+}
+.atmcard{
+    height: 300px;
+    width: 450px;
+    background-color: rgb(150, 147, 137);
+    margin-left: 70px;
+    margin-top: 70px;
+    border-radius: 10px;
+}
+.cardnumber{
+    font-size: 25px;
+    padding-left: 10px;
+    padding-top: 30px;
+}
+.textbox{
+    width: 100px;
+    height: 25px;
+
+}
+.monthandyear{
+    font-size: 25px;
+    padding-left: 10px;
+    padding-top: 30px;
+}
+.cvv{
+    font-size: 25px;
+    padding-top: 30px;
+    padding-left: 20px;
+}
+.cvvbox{
+    width: 60px;
+    height: 25px;
+}
+.visa{
+    width: 100px;
+    height: 70px;
+    padding-left: 330px;
+    padding-top: 20px;
+    display: flex;
+    justify-content: flex-end;
+
+}
+.rightpart{
+    margin-left: 700px;
+    margin-top: -500px;
+}
+
+.pi{
+    width: 500px;
+    height: 500px;
+    background-color: rgb(226, 238, 232);
+    justify-content: center;
+    padding-top: 20px;
+    border-radius: 15px;
+}
+h3{
+    font-size: 25px;
+    margin-left: 120px;
+}
+.firstname{
+    width: 200px;
+    height: 30px;
+    margin-left: 10px;
+    margin-bottom: 10px;
+    margin-top: 10px;
+    border-radius: 10px;
+    padding-left: 5px;
+
+}
+.lastname{
+    width: 200px;
+    height: 30px;
+    margin-left: 10px;
+    margin-bottom: 10px;
+    margin-top: 10px;
+    border-radius: 10px;
+    padding-left: 5px;
+
+}
+.country{
+    width: 200px;
+    height: 30px;
+    margin-left: 10px;
+    margin-bottom: 10px;
+    margin-top: 10px;
+    border-radius: 10px;
+    padding-left: 5px;
+
+}
+.city{
+    width: 200px;
+    height: 30px;
+    margin-left: 10px;
+    margin-bottom: 10px;
+    margin-top: 10px;
+    border-radius: 10px;
+    padding-left: 5px;
+
+}
+.pincode{
+    width: 200px;
+    height: 30px;  margin-left: 10px;
+    margin-bottom: 10px;
+    margin-top: 10px;
+    border-radius: 10px;
+    padding-left: 5px;
+
+}
+.email{
+    width: 200px;
+    height: 30px;  margin-left: 10px;
+    margin-bottom: 10px;
+    margin-top: 10px;
+    border-radius: 10px;
+    padding-left: 5px;
+
+}
+.phno{
+    width: 200px;
+    height: 30px;  margin-left: 10px;
+    margin-bottom: 10px;
+    margin-top: 10px;
+    border-radius: 10px;
+    padding-left: 5px;
+
+}
+.payment{
+    width: 300px;
+    height: 50px;
+    border-radius: 20px;
+    margin-left: 90px;
+    margin-top: 150px;
+    background-color: chartreuse;
+    font-size: 30px;
+}
